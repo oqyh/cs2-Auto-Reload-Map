@@ -9,7 +9,7 @@
 [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp/releases)
 
 ## .:[ Why ]:.
-Temporary Fix For Some Bugs Happen, Until Server Reload Current Map Will Fix The Bugs
+Temporary Fix For Some Bugs Happen, Until Server Reload Current Workshop Map Will Fix The Bugs
 
 ## .:[ Change Log ]:.
 ```
