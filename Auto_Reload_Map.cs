@@ -6,7 +6,7 @@ namespace Auto_Reload_Map;
 public class AutoReloadMapPlugin : BasePlugin
 {
     public override string ModuleName => "Auto Reload Map";
-    public override string ModuleVersion => "1.0.0";
+    public override string ModuleVersion => "1.0.1";
     public override string ModuleAuthor => "Gold KingZ";
     public override string ModuleDescription => "Auto Reload Current Map";
     public static string SMapName => NativeAPI.GetMapName();
@@ -26,7 +26,7 @@ public class AutoReloadMapPlugin : BasePlugin
             {
                 AddTimer(2.0f, () =>
                 {
-                    Server.ExecuteCommand($"ds_workshop_changelevel {SMapName}");
+                    Server.ExecuteCommand("sv_cheats 1; restart");
                 });
             });
         }
