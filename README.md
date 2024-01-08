@@ -1,4 +1,4 @@
-# [CS2] Auto Reload Map
+# [CS2] Auto Reload Map (1.0.1)
 
 ### Auto Reload Current Map
 
@@ -13,6 +13,9 @@ Temporary Fix For Some Bugs Happen, Until Server Reload Current Workshop Map Wil
 
 ## .:[ Change Log ]:.
 ```
+(1.0.1)
+-Fix Some Bugs
+
 (1.0.0)
 -Initial Release
 ```
